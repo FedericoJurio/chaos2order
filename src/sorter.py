@@ -6,7 +6,7 @@ from image import Image
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        '-sorter',
+        '-algorithm',
         help='supported algorithms: quick, bubble, heap',
         required=True
     )
@@ -15,5 +15,5 @@ if __name__ == '__main__':
     image = Image()
     image.initialize()
     image.randomize()
-    algorithm = SortingAlgorithm.factory(args.sorter)
+    algorithm = SortingAlgorithm.factory(args.algorithm)
     image.make_frames(algorithm)
