@@ -29,5 +29,8 @@ python src/sorter.py -algorithm {name}
 ```
 Note: the allowed values for name are `bubble`, `heap`, and `quick`
 
+## Sample
+![alt text](https://github.com/FedericoJurio/chaos2order/blob/master/sample/bubble.gif "Bubble sort")
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
