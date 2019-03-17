@@ -34,7 +34,7 @@ The following samples were created using the output frames and [ffmpeg](https://
 
 | Bubble sort | Heap sort | Quick sort |
 | --- | --- | --- |
-| ![Bubble sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/bubble.gif) | ![Heap sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) | ![Quick sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) |
+| ![Bubble sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/bubble.gif) | ![Heap sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) | ![Quick sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/quick.gif) |
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
