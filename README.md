@@ -30,7 +30,9 @@ python src/sorter.py -algorithm {name}
 Note: the allowed values for name are `bubble`, `heap`, and `quick`
 
 ## Samples
-![alt text](https://github.com/FedericoJurio/chaos2order/blob/master/sample/bubble.gif "Bubble sort") ![alt text](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif "Heap sort") ![alt text](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif "Quick sort")
+| Bubble sort | Heap sort | Quick sort |
+| --- | --- | --- |
+| ![Bubble sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/bubble.gif) | ![Heap sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) | ![Quick sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) |
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
