@@ -30,6 +30,8 @@ python src/sorter.py -algorithm {name}
 Note: the allowed values for name are `bubble`, `heap`, and `quick`
 
 ## Samples
+The following samples were created using the output frames and [ffmpeg](https://ffmpeg.org/).
+
 | Bubble sort | Heap sort | Quick sort |
 | --- | --- | --- |
 | ![Bubble sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/bubble.gif) | ![Heap sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) | ![Quick sort](https://github.com/FedericoJurio/chaos2order/blob/master/sample/heap.gif) |
